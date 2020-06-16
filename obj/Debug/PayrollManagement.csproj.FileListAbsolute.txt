@@ -1,0 +1,14 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\bin\Debug\PayrollManagement.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\bin\Debug\PayrollManagement.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\bin\Debug\PayrollManagement.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.EmployeeDetails.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.HomePage.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.AddEmployees.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.EditEmployees.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.Payroll.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.PayrollDetails.resources
